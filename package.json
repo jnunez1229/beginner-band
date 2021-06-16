@@ -1,0 +1,19 @@
+{
+  "name": "beginner-band",
+  "version": "1.0.0",
+  "description": "application to help students choose own instruments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnunez1229/beginner-band.git"
+  },
+  "author": "Juan Nunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnunez1229/beginner-band/issues"
+  },
+  "homepage": "https://github.com/jnunez1229/beginner-band#readme"
+}
